@@ -24,10 +24,8 @@ solution.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: (hthttps://github.com/barakahabdul/solution)
+- Live Site URL: (https://solution-six.vercel.app/)
 
 ### Built with
 
